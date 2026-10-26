@@ -1,0 +1,8 @@
+node_modules/
+runtime/
+site/
+.env*
+*.xlsx
+*.pem
+*.key
+*debug.log

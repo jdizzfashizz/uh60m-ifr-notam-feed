@@ -1,0 +1,14 @@
+{
+  "name": "uh60m-ifr-notam-feed",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "saxes": "6.0.0"
+  },
+  "scripts": {
+    "test": "node test-feed.cjs"
+  }
+}

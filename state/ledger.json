@@ -1,0 +1,11 @@
+{
+  "lastDataAttempt": 1792979045583,
+  "lastBulkAttempt": 1792979045583,
+  "lastSuccessfulBulk": "2026-10-26T01:44:05.583801+00:00",
+  "lastSuccessfulSync": "2026-10-26T01:44:05.583801+00:00",
+  "coverageThrough": "2026-10-25T02:44:05.583Z",
+  "leaseUntil": 0,
+  "syncError": false,
+  "seedRawMessageCount": 74742,
+  "seedUniqueRecords": 72965
+}
