@@ -1,14 +1,14 @@
 {
-  "lastDataAttempt": 1793338117480,
+  "lastDataAttempt": 1793340551222,
   "lastBulkAttempt": 1793328766581,
   "lastSuccessfulBulk": "2026-10-30T02:52:46.581Z",
   "lastSuccessfulSync": "2026-10-30T05:28:40.394Z",
   "coverageThrough": "2026-10-30T05:28:37.480Z",
-  "leaseUntil": 0,
+  "leaseUntil": 1793341091222,
   "syncError": false,
   "seedRawMessageCount": 74742,
   "seedUniqueRecords": 72965,
-  "leaseId": "4089bef1-c92e-4afa-b9b0-374d02de4c6c",
+  "leaseId": "400c39c8-f176-4935-96df-9e8eaeacc1d6",
   "kind": "incremental",
-  "reservedBy": "41008626456"
+  "reservedBy": "41012387982"
 }
