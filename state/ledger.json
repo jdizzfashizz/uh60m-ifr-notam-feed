@@ -4,7 +4,7 @@
   "lastSuccessfulBulk": "2026-11-16T08:26:00.365Z",
   "lastSuccessfulSync": "2026-11-16T08:26:10.440Z",
   "coverageThrough": "2026-11-15T09:26:00.365Z",
-  "leaseUntil": 1794853218554,
+  "leaseUntil": 0,
   "syncError": true,
   "seedRawMessageCount": 74742,
   "seedUniqueRecords": 72965,
